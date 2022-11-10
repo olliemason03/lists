@@ -1,0 +1,15 @@
+K:\lists\bin\Debug\net6.0\lists.exe
+K:\lists\bin\Debug\net6.0\lists.deps.json
+K:\lists\bin\Debug\net6.0\lists.runtimeconfig.json
+K:\lists\bin\Debug\net6.0\lists.dll
+K:\lists\bin\Debug\net6.0\lists.pdb
+K:\lists\obj\Debug\net6.0\lists.csproj.AssemblyReference.cache
+K:\lists\obj\Debug\net6.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+K:\lists\obj\Debug\net6.0\lists.AssemblyInfoInputs.cache
+K:\lists\obj\Debug\net6.0\lists.AssemblyInfo.cs
+K:\lists\obj\Debug\net6.0\lists.csproj.CoreCompileInputs.cache
+K:\lists\obj\Debug\net6.0\lists.dll
+K:\lists\obj\Debug\net6.0\refint\lists.dll
+K:\lists\obj\Debug\net6.0\lists.pdb
+K:\lists\obj\Debug\net6.0\lists.genruntimeconfig.cache
+K:\lists\obj\Debug\net6.0\ref\lists.dll
